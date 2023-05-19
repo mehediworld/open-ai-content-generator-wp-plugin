@@ -1,0 +1,27 @@
+.openai-content-generator-wrapper {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 2rem 0;
+}
+
+#openai-generator-prompt {
+    width: 100%;
+    height: 150px;
+    margin-bottom: 1rem;
+}
+
+#openai-generator-button {
+    display: inline-block;
+    background-color: #007cba;
+    color: #fff;
+    padding: 10px 15px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+#openai-generator-result {
+    margin-top: 2rem;
+    border: 1px solid #ccc;
+    padding: 1rem;
+    word-wrap: break-word;
+}
